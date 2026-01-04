@@ -35,7 +35,7 @@ The workbook contains 5 sheets, each serving a specific purpose:
 - **Position Size**: Number of shares/contracts
 - **Stop Loss**: Your stop loss price
 - **Take Profit**: Your profit target price
-- **P&L ($)**: Auto-calculates profit/loss in dollars
+- **P&L (R)**: Auto-calculates profit/loss in ZAR (South African Rand)
 - **P&L (%)**: Auto-calculates profit/loss percentage
 - **Risk/Reward**: Auto-calculates R:R ratio
 - **Fees**: Commission and fees paid
@@ -65,15 +65,15 @@ The workbook contains 5 sheets, each serving a specific purpose:
 - Winning Trades
 - Losing Trades
 - Win Rate (%)
-- Total P&L ($)
-- Total Fees ($)
-- Net P&L ($)
-- Average Win ($)
-- Average Loss ($)
+- Total P&L (R)
+- Total Fees (R)
+- Net P&L (R)
+- Average Win (R)
+- Average Loss (R)
 - Average R:R Ratio
 - Profit Factor
-- Largest Win ($)
-- Largest Loss ($)
+- Largest Win (R)
+- Largest Loss (R)
 
 **Weekly Goals & Review**:
 - Set daily profit targets
@@ -247,12 +247,12 @@ The workbook contains 5 sheets, each serving a specific purpose:
 
 ### Risk/Reward Ratio (R:R)
 - Formula: Potential Profit / Potential Loss
-- **Example**: Entry at $100, Stop at $98, Target at $105 = 5:2 = 2.5:1
+- **Example**: Entry at R100, Stop at R98, Target at R105 = 5:2 = 2.5:1
 - **Target**: Minimum 1.5:1, ideally 2:1 or higher
 
 ### Average Win vs. Average Loss
 - Your average win should be larger than average loss
-- If avg win = $200 and avg loss = $100, you only need 40% win rate to be profitable
+- If avg win = R200 and avg loss = R100, you only need 40% win rate to be profitable
 
 ---
 
@@ -301,7 +301,7 @@ Exit Price: 187.25
 Position Size: 100
 Stop Loss: 184.50
 Take Profit: 188.00
-P&L ($): 175.00 (auto-calculates)
+P&L (R): 175.00 (auto-calculates)
 P&L (%): 0.94% (auto-calculates)
 Risk/Reward: 2.5:1 (auto-calculates)
 Fees: 2.50
