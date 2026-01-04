@@ -25,7 +25,7 @@ The workbook contains 5 sheets, each serving a specific purpose:
 
 **Columns**:
 - **Trade #**: Auto-numbered (1, 2, 3...)
-- **Date**: Enter trade date (e.g., 01/04/2026)
+- **Date**: Enter trade date (e.g., 01/04/2025 or MM/DD/YYYY)
 - **Day**: Auto-calculates day of week from date
 - **Time In/Out**: Record entry and exit times
 - **Symbol**: Stock ticker (e.g., AAPL, TSLA, SPY)
@@ -290,8 +290,8 @@ The workbook contains 5 sheets, each serving a specific purpose:
 
 ```
 Trade #: 1
-Date: 01/04/2026
-Day: Saturday (auto-calculates)
+Date: 01/04/2025
+Day: Monday (auto-calculates)
 Time In: 10:15 AM
 Time Out: 11:30 AM
 Symbol: AAPL
@@ -336,4 +336,4 @@ For questions about using this trading journal, refer to this guide or review th
 
 ---
 
-*Last Updated: January 4, 2026*
+*Last Updated: January 2025*
